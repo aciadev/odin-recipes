@@ -1,0 +1,12 @@
+body{
+    background-color: #f01ad7;
+}
+
+.site-title{
+    font-family: "Papyrus", Helvetica, Arial, sans-serif;
+}
+
+.link{
+    color: blueviolet;
+    background-color: white;
+}
